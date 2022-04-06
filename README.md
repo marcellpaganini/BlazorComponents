@@ -26,8 +26,8 @@
 - [x] Names      
 - [x] Routing  
 - [x] Markup  
-- [ ] Nested Components
-- [ ] Namespaces
+- [x] Nested Components
+- [x] Namespaces
 - [ ] Partial Class Support  
 - [ ] Component Parameters  
 - [ ] Route Parameters  
