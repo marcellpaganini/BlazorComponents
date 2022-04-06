@@ -1,0 +1,12 @@
+﻿@page "/nested-one"
+
+<div style="background-color: lightgray; margin-top: 10px; padding: 10px;">
+    <h3>NestedOne</h3>
+
+    <p>@Greeting</p>
+    <p>Markup coming from a nested component.</p>
+</div>
+
+@code {
+    private string Greeting { get; set; } = "Hello!";
+}
