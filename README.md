@@ -1,1 +1,50 @@
-# BlazorComponents
+# BlazorComponents  
+ 
+## Built With  
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp// "C# documentation")  
+* [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-6.0/ "Blazor Documentation")  
+
+## Getting Started  
+### Prerequisites
+* [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0 "Download .NET 6.0")  
+
+### Project Setup (VS Code)
+* C#  
+  * Create Blazor Server project  
+  ```bash
+  dotnet new blazorserver -n Main
+  ```   
+  * Create a razor component  
+  ```bash
+  dotnet new razorcomponent -n ComponentName
+  ``` 
+
+### Programming Topics practiced to get things done  
+#### 1- Components (Blazor)  
+* Overview  
+- [ ] Razor syntax    
+- [ ] Names      
+- [ ] Routing  
+- [ ] Markup  
+- [ ] Nested Components
+- [ ] Namespaces
+- [ ] Partial Class Support  
+- [ ] Component Parameters  
+- [ ] Route Parameters  
+- [ ] Overwritten Parameters  
+- [ ] Child Content  
+- [ ] Attribute splatting and arbitrary parameters  
+- [ ] Component references  
+- [ ] Synchronization context  
+- [ ] @key to controle the preservation of elements and components  
+- [ ] @attribute  
+- [ ] Conditional HTML element attributes  
+- [ ] Raw HTML Razor templates  
+- [ ] Static assets  
+- [ ] SVG  
+- [ ] Whitespace rendering  
+- [ ] Generic type parameter support  
+- [ ] Cascaded generic type support  
+- [ ] Render razor components from JavaScript  
+- [ ] Blazor custom elements  
+- [ ] Generate Angular and React components
