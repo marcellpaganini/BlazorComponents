@@ -22,12 +22,12 @@
 ### Programming Topics practiced to get things done  
 #### 1- Components (Blazor)  
 * Overview  
-- [ ] Razor syntax    
-- [ ] Names      
-- [ ] Routing  
-- [ ] Markup  
-- [ ] Nested Components
-- [ ] Namespaces
+- [x] Razor syntax    
+- [x] Names      
+- [x] Routing  
+- [x] Markup  
+- [x] Nested Components
+- [x] Namespaces
 - [ ] Partial Class Support  
 - [ ] Component Parameters  
 - [ ] Route Parameters  
