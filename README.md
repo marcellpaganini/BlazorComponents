@@ -34,7 +34,7 @@
 - [x] Route Parameters  
 - [x] Overwritten Parameters  
 - [x] Child Content  
-- [ ] Attribute splatting and arbitrary parameters  
+- [x] Attribute splatting and arbitrary parameters  
 - [ ] Component references  
 - [ ] Synchronization context  
 - [ ] @key to controle the preservation of elements and components  
