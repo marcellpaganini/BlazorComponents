@@ -1,0 +1,14 @@
+﻿<div style="background-color:lightblue; padding:10px; margin:10px;">
+    <h3>Parameters</h3>
+
+    <p>Name: @Name</p>
+    <p>Age: @Age</p>
+</div>
+
+@code {
+    [Parameter]
+    public string? Name { get; set; } = "No name";
+
+    [Parameter]
+    public int Age { get; set; } = 0;
+}

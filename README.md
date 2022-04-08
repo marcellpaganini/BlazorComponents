@@ -31,7 +31,7 @@
 - [x] Partial Class Support 
 - [x] Base Class 
 - [x] Component Parameters  
-- [ ] Route Parameters  
+- [x] Route Parameters  
 - [ ] Overwritten Parameters  
 - [ ] Child Content  
 - [ ] Attribute splatting and arbitrary parameters  
