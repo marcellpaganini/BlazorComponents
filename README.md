@@ -32,7 +32,7 @@
 - [x] Base Class 
 - [x] Component Parameters  
 - [x] Route Parameters  
-- [ ] Overwritten Parameters  
+- [x] Overwritten Parameters  
 - [ ] Child Content  
 - [ ] Attribute splatting and arbitrary parameters  
 - [ ] Component references  
