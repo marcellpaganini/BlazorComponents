@@ -1,0 +1,11 @@
+﻿@page "/factorial-partial-class"
+<h3>FactorialPartialClass</h3>
+
+<label>
+    <span>Pick a number</span>
+    <input required type="number" @bind="factorialInput" />
+    <button @onclick="() => CalculateFactorial(factorialInput)">Click Me</button>
+</label>
+
+<p>@result</p>
+

@@ -28,8 +28,9 @@
 - [x] Markup  
 - [x] Nested Components
 - [x] Namespaces
-- [x] Partial Class Support  
-- [ ] Component Parameters  
+- [x] Partial Class Support 
+- [ ] Base Class 
+- [x] Component Parameters  
 - [ ] Route Parameters  
 - [ ] Overwritten Parameters  
 - [ ] Child Content  
