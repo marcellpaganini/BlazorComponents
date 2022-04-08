@@ -33,7 +33,7 @@
 - [x] Component Parameters  
 - [x] Route Parameters  
 - [x] Overwritten Parameters  
-- [ ] Child Content  
+- [x] Child Content  
 - [ ] Attribute splatting and arbitrary parameters  
 - [ ] Component references  
 - [ ] Synchronization context  
