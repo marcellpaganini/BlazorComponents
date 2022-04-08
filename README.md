@@ -29,7 +29,7 @@
 - [x] Nested Components
 - [x] Namespaces
 - [x] Partial Class Support 
-- [ ] Base Class 
+- [x] Base Class 
 - [x] Component Parameters  
 - [ ] Route Parameters  
 - [ ] Overwritten Parameters  
