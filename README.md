@@ -35,7 +35,7 @@
 - [x] Overwritten Parameters  
 - [x] Child Content  
 - [x] Attribute splatting and arbitrary parameters  
-- [ ] Component references  
+- [x] Component references  
 - [ ] Synchronization context  
 - [ ] @key to controle the preservation of elements and components  
 - [ ] @attribute  

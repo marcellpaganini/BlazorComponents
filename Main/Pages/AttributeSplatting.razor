@@ -1,0 +1,16 @@
+﻿@page "/attribute-splatting"
+
+<h3>AttributeSplatting</h3>
+
+<h4 @attributes="Attributes">
+    Texto escrito em outra linguagem.
+</h4>
+
+@code {
+    public Dictionary<string, object>? Attributes { get; set; } =
+        new()
+        {
+            {"style", "background-color:lightblue; padding:15px;"},
+            {"align", "center"}
+        };
+}
