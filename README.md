@@ -37,7 +37,7 @@
 - [x] Attribute splatting and arbitrary parameters  
 - [x] Component references  
 - [x] Synchronization context  
-- [ ] @key to controle the preservation of elements and components  
+- [x] @key to controle the preservation of elements and components  
 - [ ] @attribute  
 - [ ] Conditional HTML element attributes  
 - [ ] Raw HTML Razor templates  
