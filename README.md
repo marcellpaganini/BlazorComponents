@@ -36,7 +36,7 @@
 - [x] Child Content  
 - [x] Attribute splatting and arbitrary parameters  
 - [x] Component references  
-- [ ] Synchronization context  
+- [x] Synchronization context  
 - [ ] @key to controle the preservation of elements and components  
 - [ ] @attribute  
 - [ ] Conditional HTML element attributes  
