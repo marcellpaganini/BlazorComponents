@@ -6,6 +6,10 @@
     Texto escrito em outra linguagem.
 </h4>
 
+<h4 align="center" style="background-color:lightblue; padding:15px;" @attributes="ArbitraryAttributes">
+    Texto escrito em outra linguagem.
+</h4>
+
 @code {
     public Dictionary<string, object>? Attributes { get; set; } =
         new()
@@ -13,4 +17,10 @@
             {"style", "background-color:lightblue; padding:15px;"},
             {"align", "center"}
         };
+
+
+    //Create a component with this parameter and change one attribute
+    //Attributes changed must be placed on the left
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object>? ArbitraryAttributes { get; set; }
 }
