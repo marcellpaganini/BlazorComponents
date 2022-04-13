@@ -41,7 +41,7 @@
 - [x] @attribute  
 - [x] Conditional HTML element attributes  
 - [x] Raw HTML Razor templates  
-- [ ] Static assets  
+- [x] Static assets  
 - [ ] SVG  
 - [ ] Whitespace rendering  
 - [ ] Generic type parameter support  
