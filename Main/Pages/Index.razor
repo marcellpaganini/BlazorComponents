@@ -5,6 +5,18 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
-<Svg />
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+<ListGenericTypesItems1 ExampleList="Names"></ListGenericTypesItems1>
+<ListGenericTypesItems1 ExampleList="Dates"></ListGenericTypesItems1>
+
+
+@code {
+    public List<string> Names { get; set; } = new List<string>() { "Mark", "John" };
+    
+    public List<DateTime> Dates { get; set; } = new List<DateTime>() 
+        {
+           new DateTime(1999, 06, 15, 16, 06, 10),
+           new DateTime(1984, 07, 14, 10, 55, 12)
+        }; 
+}

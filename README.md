@@ -43,9 +43,9 @@
 - [x] Raw HTML Razor templates  
 - [x] Static assets  
 - [x] SVG  
-- [ ] Whitespace rendering  
-- [ ] Generic type parameter support  
-- [ ] Cascaded generic type support  
-- [ ] Render razor components from JavaScript  
-- [ ] Blazor custom elements  
-- [ ] Generate Angular and React components
+- [x] Whitespace rendering  
+- [x] Generic type parameter support  
+- [x] Cascaded generic type support  
+- [x] Render razor components from JavaScript  
+- [x] Blazor custom elements  
+- [x] Generate Angular and React components
