@@ -38,9 +38,9 @@
 - [x] Component references  
 - [x] Synchronization context  
 - [x] @key to controle the preservation of elements and components  
-- [ ] @attribute  
-- [ ] Conditional HTML element attributes  
-- [ ] Raw HTML Razor templates  
+- [x] @attribute  
+- [x] Conditional HTML element attributes  
+- [x] Raw HTML Razor templates  
 - [ ] Static assets  
 - [ ] SVG  
 - [ ] Whitespace rendering  
