@@ -42,7 +42,7 @@
 - [x] Conditional HTML element attributes  
 - [x] Raw HTML Razor templates  
 - [x] Static assets  
-- [ ] SVG  
+- [x] SVG  
 - [ ] Whitespace rendering  
 - [ ] Generic type parameter support  
 - [ ] Cascaded generic type support  
